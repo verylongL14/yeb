@@ -1,0 +1,13 @@
+server:
+  port: 7776
+
+spring:
+  mail:
+    host: smtp.163.com
+    protocol: smtp
+    default-encoding: utf-8
+    password: TJCITZCQWLNJEDNU
+    username: ordinary597@163.com
+    port: 25
+
+
